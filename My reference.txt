@@ -1,0 +1,156 @@
+Why would an e-commerce company hire a Data Analyst?
+because it's sales company so their is lot's of orders and customers data to them they need analyst for improve company  and growth they will help with business insights using that we can  make decision making for business improvement analyst tell about where product is making porift and which product is having lost price profit and also they will suggestion based on place and also stakeholder requestment will analyse data according into that they will provide need improvement insights and ides to make decision for company
+
+
+
+Why is sales alone not enough? Why should we analyze profit?
+beacouse we don't know where and which product has more and losse using sales data we can say which product is going well sale and which one not for improve some places cities  and  
+particular area we can targwt and make profit give more discount based on analysis and more after analyse profit we can say which product give more discount and reduce product and more we can do 
+
+
+If a state has high sales but negative profit, what could be the reasons?
+it means that state has high discount product they are selling fast and high but profit margin may be low that's why it's has negative profit 
+
+
+
+If discounts are very high, how might that affect the business?
+if discount has very high that product will get sell more and people start notice that product but may not be get accpected profit or high groth only  branding of product with loss profit only happened
+
+What decisions could a manager make after looking at your analysis?
+they can make about discount % and selling price and based on state ananlysis they get know where and when they can invest more on product get prodift and can make their own stratagies for company improvement
+
+Imagine you're presenting this project to the CEO.
+
+If you could show only 5 KPIs on the first page of your dashboard, what would they be?
+Total Sales - we can know how much total revenue we generated
+Total Profit - we get to know how much profit we generated over cost of product
+Sales Growth - check over a growth if company
+Average Sales per month - using this we can dicide where and which month we are getting profit and lose where and when 
+Average Order Value - using this we can know about avg order value for each product using this we can dicide 
+next time prodict cost decrese or increase and also discount for those products
+
+Now I want you to think like you're the CEO.
+
+Imagine I give you this dataset and say:
+
+"Ravi, you have one week to analyze our business. You can ask any questions you want."
+
+Your task:
+
+Write 20 business questions that you would like to answer from this dataset.
+
+Examples (don't copy these directly):
+
+Which product category generates the highest profit?
+Which state has the highest sales?
+Do higher discounts reduce profit?
+
+Come up with 20 of your own questions.
+
+1.Which product category generates the highest profit?
+2.Which state has the highest sales?
+3.Do higher discounts reduce profit?
+4.which product is getting sell most
+5. which state as lowest profit
+6.what is the average speding per each customers
+7.what is the over a year growth of company
+8.based on data of past which year has most profit sales 
+9.which month or season products selling most and why
+10.customer behavoir test
+11. customer loyalt score
+12.total sales and revenue
+13.total lose per year 
+14.top 10 customers based on more orders
+15.what is average profit for month and year 
+16.does lowset discount getting more profit for prdoucts
+17.which region getting more order and profit 
+18.which country has lowset profit 
+19.which sub category getting more profit 
+20.what is average discount is getting profit 
+
+Sales -measure
+Profit-measure
+Quantity-dimension
+Discount-dimension
+Category-dimension
+State-dimension
+Region-dimension
+Product Name-dimension
+Customer Name-dimension
+Segment-dimension
+
+If Customer Name is removed, what analyses become impossible?
+who are the top 10 customers names
+who are the most buyed customer name
+who order lowest order customer name 
+
+Which product is better?
+Product B Because here sales is lower then product a 40k and profit also made 12k in product B However in Product A has sales 100k but profit is 8k only compared to Product B is best and better
+
+Open your dataset and answer these questions:
+
+1.
+
+Which columns contain dates?
+2 columns cotains dats order date and ship date 
+
+2.
+
+Which columns contain numbers?
+total 5 columns contains number Sales,Profit,Quantity,Discount,Postal Code
+
+3.
+
+Which columns contain text?
+total 10 columns cotain text Ship Mode,Customer Name,Segment,Country,City,State,Region,Category,Sub-category,Product name
+
+4.
+
+Which column would you choose to calculate:
+
+Revenue Growth?Sales
+Customer Growth?Profit
+Monthly Sales?Order date
+Shipping Time?Ship date
+
+
+Dataset Name:Sample - superstore
+
+Total Rows:9995
+
+Total Columns:21
+
+Missing Values:0
+
+Duplicate Records:0
+
+Data Types Summary:Float values,Text,Numeric,date
+
+Observations: total 21 columns all 21 are not needed for analysis I think row id like this one 
+
+Recommendations: Nothing Right now 
+
+
+
+## Business Insights
+
+### Findings
+
+- Highest Sales Sub-Category:
+ Phones(330007.05)
+- Highest Profit Sub-Category:
+ Copiers(55617.82)
+- Lowest Profit Sub-Category:
+ tables(-17725.48)
+- Highest Profit Margin:
+ labels(44.42)
+- Lowest Profit Margin:
+ tables(-8.56)
+### Recommendations
+
+- Increase investment in ________phones______________.
+- Review pricing and discounts for ________tables______________.
+- Investigate why _______tables,bookcases_______________ is generating losses.
+
+
+
